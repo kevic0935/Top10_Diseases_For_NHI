@@ -13,16 +13,11 @@
 
 ## 後端
 1. HTTP 伺服器：處理 Request & Response
-+ Nginx
 + Apache
 2. 後端語言/框架：HTTP 伺服器呼叫”後端程式語言“處理 Request 回傳 Response
 + PHP/Laravel
-+ Ruby on Rails
-+ Node.js/Express
 + Python/Django
-+ ASP
-+ Go
-+ Java
+
 3.  資料庫：儲存資料
 + SQL：MySQL...
 + NoSQL：MongoDB...
